@@ -1,0 +1,10 @@
+#images {
+ display: block; 
+ margin: auto;  
+ position: relative;
+ text-align: center;
+}
+
+body {
+    background: #f0ece2;
+}
